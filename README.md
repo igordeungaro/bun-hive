@@ -447,3 +447,12 @@ Refer to the [Project > Contributing](https://bun.com/docs/project/contributing)
 ## License
 
 Refer to the [Project > License](https://bun.com/docs/project/license) page for information about Bun's licensing.
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [oven-sh/bun](https://github.com/oven-sh/bun), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: própria do projeto (ver o arquivo LICENSE) (mantida sem alterações).
+
+**Fonte original:** https://github.com/oven-sh/bun
